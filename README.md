@@ -1,16 +1,26 @@
-### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/85583385/146422710-6afa7f75-5e33-40ec-949d-f24fbc4aff63.png)
+
+
+
+
+### Hello! 👋
+ 
+My name is Sam Roble and I am a graduate of Flatiron School. I am orignally from Florida, now located in Denver, Colorado. I am interested in and devlop in Node, Bootstrap, JavaScript, Rails, React, Ruby, CSS, HTML.
+
+# How to get in touch 📫
+Website (Coming soon): 
+
+Email: smroble1996@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/smroble/
+
+Phone: 727 483 1007 
 <!--
 **smroble1996/smroble1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
