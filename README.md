@@ -6,7 +6,7 @@
 
 ### Hello! 👋
  
-My name is Sam Roble and I am a graduate of Flatiron School. I am orignally from Florida, now located in Denver, Colorado. I am interested in and devlop in Node, Bootstrap, JavaScript, Rails, React, Ruby, CSS, HTML.
+My name is Sam Roble and I am a graduate of Flatiron School. I am orignally from Florida, now located in Denver, Colorado. I am interested in and development in Node, Bootstrap, JavaScript, Rails, React, Ruby, CSS, HTML.
 
 # How to get in touch 📫
 Website (Coming soon): 
