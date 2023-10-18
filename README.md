@@ -1,12 +1,7 @@
 
-![image](https://user-images.githubusercontent.com/85583385/146422710-6afa7f75-5e33-40ec-949d-f24fbc4aff63.png)
-
-
-
-
 ### Hello! 👋
  
-My name is Sam Roble and I am a graduate of Flatiron School. I am orignally from Florida, now located in Denver, Colorado. I am interested in and development in Node, Bootstrap, JavaScript, Rails, React, Ruby, CSS, HTML.
+My name is Sam Roble and I am a graduate of Flatiron School. I am orignally from Florida, now located in the DC area! I am interested in and development in Node, Bootstrap, JavaScript, Rails, React, Ruby, CSS, HTML.
 
 # How to get in touch 📫
 Website (Coming soon): 
