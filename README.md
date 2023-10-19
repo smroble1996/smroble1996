@@ -4,7 +4,6 @@
 My name is Sam Roble and I am a graduate of Flatiron School. I am orignally from Florida, now located in the DC area! I am interested in and development in Node, Bootstrap, JavaScript, Rails, React, Ruby, CSS, HTML.
 
 # How to get in touch 📫
-Website (Coming soon): 
 
 Email: smroble1996@gmail.com
 
